@@ -23,6 +23,7 @@ import java.util.Scanner;
          case 2:
            student();  
            break;
+t
          
              
      
